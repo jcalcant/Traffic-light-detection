@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_imgs</folder>
+	<filename>not_red39.png</filename>
+	<path>/Users/mrcharles/Documents/udacity/self_driving_car_nd/projects/capstone_imgs/train_imgs/not_red39.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>5</ymin>
+			<xmax>376</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>
